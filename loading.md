@@ -124,7 +124,7 @@ export { Loading, loadingVariants };
 | Prop        | Type                        | Default         | Description                          |
 | ----------- | --------------------------- | --------------- | ------------------------------------ |
 | `text`      | `string`                    | `"Thinking..."` | Text to display during loading       |
-| `size`      | `"default" \| "sm" \| "lg"` | `"default"`     | Text size                           |
+| `size`      | `"default" \| "sm" \| "lg"` | `"default"`     | Text size                            |
 | `className` | `string`                    | -               | Additional CSS classes               |
 
 ## Variants
